@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Módulo de Listas Negras (RBL) para Roundcube
 
 Este módulo bloquea el acceso a Roundcube si la dirección IP del usuario está listada en listas negras (RBL).  
@@ -79,3 +80,7 @@ Si el módulo no funciona como se espera, sigue estos pasos para depurar el prob
 ## Créditos
 
 Desarrollado para integrarse con Roundcube y mejorar la seguridad del acceso mediante listas negras.  
+=======
+# roundcube-rbl
+Plugin para consultar una rbl en roundcube.
+>>>>>>> ca590a8a79c5c944beed015525d7486bab2a8367
